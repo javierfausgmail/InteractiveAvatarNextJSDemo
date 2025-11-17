@@ -16,11 +16,11 @@ const fontMono = FontMono({
 
 export const metadata: Metadata = {
   title: {
-    default: "HeyGen Interactive Avatar SDK Demo",
-    template: `%s - HeyGen Interactive Avatar SDK Demo`,
+    default: "Coral - Avatar del puerto de Alicante",
+    template: `%s - Coral - Avatar del puerto de Alicante`,
   },
   icons: {
-    icon: "/heygen-logo.png",
+    icon: "/logo_coral_puerto_fin.png",
   },
 };
 
