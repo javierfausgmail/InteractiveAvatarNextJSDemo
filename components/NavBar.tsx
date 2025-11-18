@@ -25,10 +25,6 @@ export default function NavBar() {
           >
             Puerto de Alicante
           </Link>
-
-            <GithubIcon className="text-default-500" />
-            SDK
-          </Link>
         </div>
       </div>
     </>
